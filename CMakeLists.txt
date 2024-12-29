@@ -1,5 +1,6 @@
+cmake_minimum_required(VERSION 3.10)
+
 project(FAT16)
-cmake_minimum_required(VERSION 3.2)
 
 option(BUILD_EXAMPLES "Build the examples project as well" OFF)
 
